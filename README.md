@@ -77,16 +77,16 @@ Alur Utama Program
 5. Proses berulang sampai pengguna memutuskan untuk tidak menambahkan barang lagi.
 6. Program menampilkan isi keranjang, menghitung total harga, dan mencetak struk belanja.
 
-### Step 4 : RUNNING PROGRAM
+### Step 4 : JALANKAN PROGRAM
 
-Langkah terakhir yaitu pengujian code program, kita mencoba dengan menambahkan code 0012 dengan kuantitas 1 saja sebagai daftar barang ke keranjang, jika program meminta user untuk menginputkan perinta ingin menambahkan barang atau sudah selesai, maka kita coba menambahkan dengan 'y' sebagai perintahnya.
+Langkah terakhir yaitu pengujian kode program, kita mencoba dengan menambahkan code 0012 dengan pilih 1 saja sebagai daftar barang ke keranjang, jika program meminta user untuk menginputkan perintah ingin menambahkan barang atau sudah selesai, maka kita coba menambahkan dengan 'y' sebagai perintahnya.
 
 ![Screenshot 2025-01-06 150203](https://github.com/user-attachments/assets/a3cb6eaf-8a35-4ddb-a9b6-051a9a5a6d62)
 
-Lalu, kita akan coba menambahkan code 0020 dengan kuantitas 1, dan program akan menanyakan kembali kepada user, jika user perintahkan 'n' maka program akan menampilkan hitungan total berupa struk belanja/barang.
+Lalu, kita akan coba menambahkan code 0020 dengan pilih 1, dan program akan menanyakan kembali kepada user, jika user perintahkan 'n' maka program akan menampilkan hitungan total berupa struk belanja/barang.
 
 <img width="434" alt="image" src="https://github.com/user-attachments/assets/7ed64995-f46b-4052-9988-93699b686e29" />
 
 ## LINK YOUTUBE
 
-( )
+( https://youtu.be/Xnjou7GSnSE?si=gtN6rvqCAFbIpoKV )
