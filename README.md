@@ -90,6 +90,3 @@ Lalu, kita akan coba menambahkan code 0020 dengan kuantitas 1, dan program akan 
 ## LINK YOUTUBE
 
 ( )
-
-## KESIMPULAN
-Kode program ini mengadopsi paradigma Object-Oriented Programming (OOP) dengan membagi tanggung jawab dalam class dan modul. Class Barang dan Keranjang bertanggung jawab untuk memodelkan data dan proses bisnis, sedangkan modul view menangani antarmuka pengguna. File main.py meng-koordinasikan seluruh proses sehingga kode menjadi terstruktur, modular, dan mudah diatur ulang atau dikembangkan.
